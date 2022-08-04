@@ -2,4 +2,4 @@
 
 Email:panydacademy@163.com  
 
-[![YuDongPan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/YuDongPan/github-readme-stats)
+[![YuDongPan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDongPan)](https://github.com/YuDongPan/github-readme-stats)
