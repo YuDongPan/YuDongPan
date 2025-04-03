@@ -40,17 +40,18 @@
 
 
 ## 📂 Featured Repositories
-<!-- START_TOP_REPOS -->
-<!-- END_TOP_REPOS -->
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=Canonical_Classifier)](https://github.com/YuDongPan/Canonical_Classifier)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=SSVEPNet)](https://github.com/YuDongPan/SSVEPNet)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=DL_Classifier)](https://github.com/YuDongPan/DL_Classifier)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=Github_Recommendation)](https://github.com/YuDongPan/Github_Recommendation)
+<table>
+  <tr>
+    {{range $index, $repo := (GET "https://api.github.com/users/YuDongPan/repos?sort=stars&per_page=4")}}
+    {{if mod $index 2 == 0}}</tr><tr>{{end}}
+    <td width="50%">
+      <a href="{{$repo.html_url}}">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo={{$repo.name}}&theme=tokyonight"/>
+      </a>
+    </td>
+    {{end}}
+  </tr>
+</table>
 
 
 ## 📩 Connect with Me
