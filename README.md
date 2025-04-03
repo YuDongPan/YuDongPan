@@ -38,6 +38,17 @@
 
 ---
 
+## 📂 Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=Canonical_Classifier)](https://github.com/YuDongPan/Canonical_Classifier)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=SSVEPNet)](https://github.com/YuDongPan/SSVEPNet)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=DL_Classifier)](https://github.com/YuDongPan/DL_Classifier)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=Github_Recommendation)](https://github.com/YuDongPan/Github_Recommendation)
+
+
 ## 🌐 Connect with Me
 [![CSDN](https://img.shields.io/badge/-CSDN-orange?style=flat&logo=csdn)](https://blog.csdn.net/weixin_43715601?spm=1010.2135.3001.5343)  
 
