@@ -40,6 +40,9 @@
 
 
 ## 📂 Featured Repositories
+<!-- START_TOP_REPOS -->
+<!-- END_TOP_REPOS -->
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo=Canonical_Classifier)](https://github.com/YuDongPan/Canonical_Classifier)
 
