@@ -1,4 +1,4 @@
-# Hi there, I'm Pan Y! 👋
+# Hi there, I'm YuDong Pan! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deep+Learning+Researcher;EEG+Algorithm+Engineer;Brain-Computer+Interface+Enthusiast)](https://git.io/typing-svg)
 
