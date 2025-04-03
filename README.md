@@ -39,21 +39,6 @@
 ---
 
 
-## 📂 Featured Repositories
-<table>
-  <tr>
-    {{range $index, $repo := (GET "https://api.github.com/users/YuDongPan/repos?sort=stars&per_page=4")}}
-    {{if mod $index 2 == 0}}</tr><tr>{{end}}
-    <td width="50%">
-      <a href="{{$repo.html_url}}">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuDongPan&repo={{$repo.name}}&theme=tokyonight"/>
-      </a>
-    </td>
-    {{end}}
-  </tr>
-</table>
-
-
 ## 📩 Connect with Me
 [![CSDN](https://img.shields.io/badge/-CSDN-orange?style=flat&logo=csdn)](https://blog.csdn.net/weixin_43715601?spm=1010.2135.3001.5343)  
 📧 Email: panydacademy@163.com
