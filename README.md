@@ -32,15 +32,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Pan Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Pan Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudongPan&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudongPan&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-lightgrey?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=your-google-scholar-id)  
 [![CSDN](https://img.shields.io/badge/-CSDN-orange?style=flat&logo=csdn)](https://blog.csdn.net/weixin_43715601?spm=1010.2135.3001.5343)  
 
 ---
