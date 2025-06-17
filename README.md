@@ -14,9 +14,9 @@
 ---
 
 ## 📜 Selected Publications
-📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 55 times)  
-📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 9 times)  
-📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 61 times)  
+📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 58 times)  
+📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 13 times)  
+📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 73 times)  
 📖 **[Medical & Biological Engineering & Computing, 2024]**: Semi-supervised **MRI image segmentation**. (Cited 4 times)  
 📚 More publications: Available upon request.
 
@@ -26,7 +26,7 @@
 - **Programming**: Python, MATLAB, C++  
 - **Deep Learning Frameworks**: PyTorch, TensorFlow, Keras  
 - **Signal Processing**: EEG/BCI, Time-Series Analysis, Spectral Transformations  
-- **Computer Vision**: Medical Image Processing, GANs, Transformers  
+- **Computer Vision**: Medical Image Processing, Object Detection, GANs, Transformers  
 - **BCI Applications**: SSVEP, ERP, Multimodal AI Systems  
 
 ---
