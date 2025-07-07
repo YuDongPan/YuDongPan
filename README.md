@@ -14,9 +14,10 @@
 ---
 
 ## 📜 Selected Publications
-📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 58 times)  
-📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 13 times)  
-📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 73 times)  
+📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 59 times)  
+📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 15 times)  
+📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 78 times)  
+📖 **[Brain-Apparatus Communication: A Journal of Bacomics]**: A survey of deep learning-based classification methods for steady-state visual evoked potentials. *SSVEP Review* (Cited 16 times)  
 📖 **[Medical & Biological Engineering & Computing, 2024]**: Semi-supervised **MRI image segmentation**. (Cited 4 times)  
 📚 More publications: Available upon request.
 
