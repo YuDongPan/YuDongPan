@@ -14,11 +14,11 @@
 ---
 
 ## 📜 Selected Publications
-📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 73 times)  
-📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 18 times)  
-📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 110 times)  
+📖 **[Journal of Neural Engineering, 2022]**: CNN-LSTM network for **SSVEP frequency recognition**. (Cited 77 times)  
+📖 **[Cognitive Neurodynamics, 2024]**: Short-length **SSVEP data extension** using GANs. (Cited 20 times)  
+📖 **[Neural Networks, 2023]**: Transformer-based deep model for **SSVEP classification**. (Cited 117 times)  
 📖 **[Brain-Apparatus Communication]**: A survey of deep learning-based classification methods for SSVEPs. *SSVEP Review* (Cited 17 times)  
-📖 **[ICONIP]**: Segment anything model for semi-supervised medical image segmentation via selecting reliable pseudo-labels. *MRI image segmentation* (Cited 33 times)  
+📖 **[ICONIP]**: Segment anything model for semi-supervised medical image segmentation via selecting reliable pseudo-labels. *MRI image segmentation* (Cited 35 times)  
 📖 **[Medical & Biological Engineering & Computing, 2024]**: Semi-supervised **MRI image segmentation**. (Cited 4 times)  
 📚 More publications: Available upon request.
 
@@ -34,9 +34,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Pan Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudongPan&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudongPan&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YudongPan&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YudongPan&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YudongPan&theme=tokyonight&utcOffset=8)
 
 ---
 
