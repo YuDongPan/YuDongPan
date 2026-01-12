@@ -35,11 +35,11 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub 基础统计 -->
-![Metrics](https://metrics.lecoq.io/YudongPan?template=classic&languages=1&activity=1&stars=1&theme=tokyonight&config.timezone=Asia/Shanghai)
+![YuDong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YudongPan&show_icons=true&count_private=true&theme=tokyonight)
 
-<!-- 精简版语言统计 -->
-![Top Langs](https://metrics.lecoq.io/YudongPan?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YudongPan&layout=compact&theme=tokyonight)
+
+
 
 ---
 
