@@ -35,10 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YudongPan&theme=tokyonight)
+![YuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudongPan&show_icons=true&theme=tokyonight&count_private=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YudongPan&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YudongPan&theme=tokyonight&utcOffset=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudongPan&layout=compact&theme=tokyonight)
 
 ---
 
