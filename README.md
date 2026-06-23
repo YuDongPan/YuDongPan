@@ -10,7 +10,7 @@
 
 💼 Currently serving as a **Senior EEG Engineer** at **Gestala**, the first ultrasound brain-computer interface company in China. I am responsible for the end-to-end development of the EEG module, including hardware architecture, signal acquisition, preprocessing pipelines, algorithm development, and system integration for next-generation neurotechnology products.
 
-🏢 **Former Experience:** Senior EEG Algorithm Engineer at **Xiaozhou Technology**, where I worked on visual BCI headbands and multimodal AI smart glasses.
+🏢 **Former Experience:** Senior EEG Algorithm Engineer at **Barco Technology**, where I worked on visual BCI headbands and multimodal AI smart glasses.
 
 🎖 Honorary Reviewer at **IOP Science**: [ORCID Profile](https://orcid.org/0000-0002-3209-4721)
 
